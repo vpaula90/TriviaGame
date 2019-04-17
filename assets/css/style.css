@@ -1,0 +1,41 @@
+body{
+    background-image: url(../images/hogwarts3.jpg);
+    background-size: cover;
+    font-family: 'Quicksand', sans-serif;
+}
+
+header {
+    width: 20%;
+    height: 20%;
+}
+
+#quiz, #results {
+    background:rgba(255,255,255,0.5);
+    color: black;
+    font-display: bold;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(238, 195, 55);
+    border: none;
+    color: rgb(10, 10, 10);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-family: 'Quicksand', sans-serif;
+ 
+  }
+  
+  #countdown {
+    background:rgba(197, 45, 45, 0.7);
+    text-align: center;
+    font-size: 16px;
+    position: fixed;
+    width: 12%;
+    margin-left: 87%;
+    margin-top: -13%;
+  }
+ 
